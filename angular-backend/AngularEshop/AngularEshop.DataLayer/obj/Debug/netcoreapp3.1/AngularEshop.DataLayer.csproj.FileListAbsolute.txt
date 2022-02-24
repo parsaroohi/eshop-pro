@@ -1,0 +1,12 @@
+D:\Desktop\projects\angular-backend\AngularEshop\AngularEshop.DataLayer\bin\Debug\netcoreapp3.1\AngularEshop.DataLayer.deps.json
+D:\Desktop\projects\angular-backend\AngularEshop\AngularEshop.DataLayer\bin\Debug\netcoreapp3.1\AngularEshop.DataLayer.runtimeconfig.json
+D:\Desktop\projects\angular-backend\AngularEshop\AngularEshop.DataLayer\bin\Debug\netcoreapp3.1\AngularEshop.DataLayer.runtimeconfig.dev.json
+D:\Desktop\projects\angular-backend\AngularEshop\AngularEshop.DataLayer\bin\Debug\netcoreapp3.1\AngularEshop.DataLayer.dll
+D:\Desktop\projects\angular-backend\AngularEshop\AngularEshop.DataLayer\bin\Debug\netcoreapp3.1\AngularEshop.DataLayer.pdb
+D:\Desktop\projects\angular-backend\AngularEshop\AngularEshop.DataLayer\obj\Debug\netcoreapp3.1\AngularEshop.DataLayer.csproj.AssemblyReference.cache
+D:\Desktop\projects\angular-backend\AngularEshop\AngularEshop.DataLayer\obj\Debug\netcoreapp3.1\AngularEshop.DataLayer.AssemblyInfoInputs.cache
+D:\Desktop\projects\angular-backend\AngularEshop\AngularEshop.DataLayer\obj\Debug\netcoreapp3.1\AngularEshop.DataLayer.AssemblyInfo.cs
+D:\Desktop\projects\angular-backend\AngularEshop\AngularEshop.DataLayer\obj\Debug\netcoreapp3.1\AngularEshop.DataLayer.csproj.CoreCompileInputs.cache
+D:\Desktop\projects\angular-backend\AngularEshop\AngularEshop.DataLayer\obj\Debug\netcoreapp3.1\AngularEshop.DataLayer.dll
+D:\Desktop\projects\angular-backend\AngularEshop\AngularEshop.DataLayer\obj\Debug\netcoreapp3.1\AngularEshop.DataLayer.pdb
+D:\Desktop\projects\angular-backend\AngularEshop\AngularEshop.DataLayer\obj\Debug\netcoreapp3.1\AngularEshop.DataLayer.genruntimeconfig.cache
